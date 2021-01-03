@@ -1,0 +1,8 @@
+Public class compareToExample{
+Public static void main(String args[]){
+String s1="Lav";
+String s2="Lav";
+String s3="kumar";
+System.out.println(s1.compareTo(s2));//0 because both are equal
+System.out.println(s1.compareTo(s3));//-1 because "k"is 1 times lower than "L"
+}}
