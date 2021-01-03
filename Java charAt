@@ -1,0 +1,6 @@
+Public class charAtExample{
+Public static void main(String args[]){
+String name="Lav kumar";
+Char ch=name.charAt(3);//returns the char value at the 3rd index
+System.out.print1n(ch);
+}}
