@@ -1,0 +1,7 @@
+public class Main { 
+public static void main(String[] args) { 
+String sl="Lav kumar";
+String s2="cricketer";
+System.out.println("string length is:"+sl.length());//9 is the length of Lav kumar string 
+System.out.println("string length is "+s2.length());//9 is the length of cricketer string
+}}
