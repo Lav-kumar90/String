@@ -1,0 +1,5 @@
+public class StringJoin{  
+public static void main(String args[]){  
+String joinString1=String.join("-","Lav kumar pandey","is","a cricketer");  
+System.out.println(joinString1);  
+}}  
