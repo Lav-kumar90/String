@@ -1,0 +1,8 @@
+Public class concatExample{
+Public static void main(string args[]){
+String sl="Lav kumar";
+s1.concat("is a player");
+System.out.println(sl);
+sl=sl.concat("is a player");
+System.out.println(sl);
+}}
